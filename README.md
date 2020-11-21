@@ -11,8 +11,8 @@ Links to some of the papers, repos and other materials arranged by subject
 #### 2. https://github.com/visionml/pytracking (ETH Zurich Tracker Repository)
 
 ### Image Super Resolution
-#### 1. https://github.com/sefibk/KernelGAN (KernelGAN: State of the art Non-Blind SR Technique)
-#### 2. https://github.com/yuanjunchai/IKC (IKC: State of the art Non-Blind SR Technique)
+#### 1. https://github.com/sefibk/KernelGAN (KernelGAN: state of the art non-blind SR Technique)
+#### 2. https://github.com/yuanjunchai/IKC (IKC: state of the art non-blind SR Technique)
 
 ### Image Correspondence
 #### 1. https://github.com/PruneTruong/GLU-Net (GLU-Net: Warp Images to match a given template image)
@@ -22,9 +22,9 @@ Links to some of the papers, repos and other materials arranged by subject
 ## Programming and Tools
 
 ### PyTorch
-#### 1. https://github.com/yunjey/pytorch-tutorial (Basics Tutorial)
-#### 2. https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/ (YOLO in PyTorch Tutorial)
+#### 1. https://github.com/yunjey/pytorch-tutorial (Basics)
+#### 2. https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/ (Implementing YOLO in PyTorch)
 
 ### Julia
-#### 1. https://alan-turing-institute.github.io/DataScienceTutorials.jl/ (Basics Tutorial)
+#### 1. https://alan-turing-institute.github.io/DataScienceTutorials.jl/ (Basics)
 #### 2. https://towardsdatascience.com/machine-learning-in-julia-5bca700e0348 (ML in Julia)
