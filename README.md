@@ -6,6 +6,9 @@ Links to some of the papers, repos and other materials arranged by subject
 ### Event Camera and its Applications
 #### 1. https://github.com/uzh-rpg/event-based_vision_resources (From ETH Zurich)
 
+### Visual Object Tracking
+#### 1. https://www.votchallenge.net/vot2020/trackers.html (Source codes from VOT 2020)
+
 ## Programming and Tools
 
 ### PyTorch
