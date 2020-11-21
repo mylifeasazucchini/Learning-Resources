@@ -9,4 +9,5 @@ Links to some of the papers, repos and other materials arranged by subject
 ## Programming and Tools
 
 ### PyTorch
-#### 1. https://github.com/yunjey/pytorch-tutorial
+#### 1. https://github.com/yunjey/pytorch-tutorial (Tutorial)
+#### 2. https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/ (YOLO in PyTorch Tutorial)
