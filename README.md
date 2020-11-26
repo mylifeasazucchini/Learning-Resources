@@ -25,6 +25,7 @@ Links to some of the papers, repos and other materials arranged by subject
 ### PyTorch
 #### 1. https://github.com/yunjey/pytorch-tutorial (Basics)
 #### 2. https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/ (Implementing YOLO in PyTorch)
+#### 3. https://atcold.github.io/pytorch-Deep-Learning/ (SPRING 2020 · NYU CENTER FOR DATA SCIENCE)
 
 ### Julia
 #### 1. https://alan-turing-institute.github.io/DataScienceTutorials.jl/ (Basics)
