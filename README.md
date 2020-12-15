@@ -24,10 +24,13 @@ Links to some of the papers, repos and other materials arranged by subject
 ## Programming and Tools
 
 ### PyTorch
-#### 1. https://github.com/yunjey/pytorch-tutorial (Basics)
+#### 1. https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans (Basics)
 #### 2. https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/ (Implementing YOLO in PyTorch)
 #### 3. https://atcold.github.io/pytorch-Deep-Learning/ (SPRING 2020 · NYU CENTER FOR DATA SCIENCE)
 
 ### Julia
 #### 1. https://alan-turing-institute.github.io/DataScienceTutorials.jl/ (Basics)
 #### 2. https://towardsdatascience.com/machine-learning-in-julia-5bca700e0348 (ML in Julia)
+
+### Data Visualization
+#### 1. https://jovian.ai/aakashns/dataviz-cheatsheet
