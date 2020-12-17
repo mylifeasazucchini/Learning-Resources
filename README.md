@@ -34,3 +34,6 @@ Links to some of the papers, repos and other materials arranged by subject
 
 ### Data Visualization
 #### 1. https://jovian.ai/aakashns/dataviz-cheatsheet
+
+### Tools
+#### 1. Train Code Generator - https://github.com/jrieke/traingenerator
