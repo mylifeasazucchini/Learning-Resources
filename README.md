@@ -43,3 +43,4 @@ Links to some of the papers, repos and other materials arranged by subject
 ### Tools
 #### 1. Train Code Generator - https://github.com/jrieke/traingenerator
 #### 2. Annotation Tool - https://github.com/heartexlabs/label-studio
+#### 3. Image Pre-Processing for DL (PyTorch): https://albumentations.ai/docs/examples/pytorch_classification/
