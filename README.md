@@ -15,7 +15,6 @@ Links to some of the papers, repos and other materials arranged by subject
 ### Event Camera
 #### 1. https://github.com/uzh-rpg/event-based_vision_resources (ETH Zurich)
 
-
 ### Image Correspondence
 #### 1. https://github.com/PruneTruong/GLU-Net (GLU-Net: Warp Images to match a given template image)
 #### 2. https://github.com/XiSHEN0220/RANSAC-Flow (RANSAC-FLOW*)
@@ -27,6 +26,9 @@ Links to some of the papers, repos and other materials arranged by subject
 ### Super Resolution 
 #### 1. https://github.com/sefibk/KernelGAN (KernelGAN: state of the art non-blind SR Technique)
 #### 2. https://github.com/yuanjunchai/IKC (IKC: state of the art non-blind SR Technique)
+
+### Misc.
+#### 1. https://github.com/wvangansbeke/Unsupervised-Classification (Unsupervised Classification)
 
 ## Programming and Tools
 
