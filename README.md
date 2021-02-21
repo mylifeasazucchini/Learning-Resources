@@ -33,7 +33,7 @@ Links to some of the papers, repos and other materials arranged by subject
 
 ### PyTorch
 #### 1. https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans (Basics)
-#### 2. https://github.com/lab-ml/nn?fbclid=IwAR1Z9gMbgnNu6B_MIFd_S2_qkJ2cke7q8Dy29L1qqI9Woe-DO5K0_EDPX-s (PyTorch Neural Networks Implementations)
+#### 2. https://nn.labml.ai/index.html (PyTorch Neural Networks Implementations)
 #### 3. https://atcold.github.io/pytorch-Deep-Learning/ (SPRING 2020 · NYU CENTER FOR DATA SCIENCE)
 
 ### Julia
