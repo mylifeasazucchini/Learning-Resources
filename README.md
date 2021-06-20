@@ -16,11 +16,13 @@ Links to some of the papers, repos and other materials arranged by subject
 ### Event Camera
 #### 1. https://github.com/uzh-rpg/event-based_vision_resources (ETH Zurich)
 
-### Image Correspondence
+### Image Correspondence/Optical Flow
 #### 1. https://github.com/XiSHEN0220/RANSAC-Flow (RANSAC-FLOW*)
 #### 2. https://github.com/NVlabs/PWC-Net?utm_source=catalyzex.com (PWC-Net)
 #### 3. https://github.com/voxelmorph/voxelmorph (3D - Data)
 #### 4. https://github.com/airlab-unibas/airlab (AIRLAB - 2D and 3D data)
+#### 5. Learning-based Image Registration with Meta-Regularization
+#### 6. https://github.com/PruneTruong/DenseMatching (GOCOR/PDCNET)
 
 ### Super Resolution 
 #### 1. https://github.com/sefibk/KernelGAN (KernelGAN: state of the art non-blind SR Technique)
