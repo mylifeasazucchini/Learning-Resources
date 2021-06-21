@@ -30,7 +30,8 @@ Links to some of the papers, repos and other materials arranged by subject
 
 ### Misc.
 #### 1. https://github.com/wvangansbeke/Unsupervised-Classification (Unsupervised Classification)
-#### 2. https://github.com/ruoqi-liu/DeepIPW (dDep learning framework for drug repurposing)
+#### 2. https://github.com/ruoqi-liu/DeepIPW (Deep learning framework for drug repurposing)
+#### 3. https://energy-based-models.github.io/?fbclid=IwAR3NXZDs1N49Ehcq4cVjLPIIbl_lWBWZn5FTb_nvH-ckX_f3UdHJB1v_S_U (Energy Based Models)
 
 ## Programming and Tools
 
